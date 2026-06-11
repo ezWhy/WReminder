@@ -1,0 +1,24 @@
+WReminder
+Powered by ezWhy.com
+
+How to install
+1. Run WReminder_Setup_v1.0.0.exe.
+2. Follow the setup wizard.
+3. Open WReminder from the Desktop shortcut or Start Menu: ezWhy > WReminder.
+
+How to exit from tray
+1. Right-click the WReminder icon in the Windows system tray.
+2. Choose Thoat to fully exit the app.
+
+How to update
+1. Download the new version from ezWhy.com.
+2. Exit WReminder from the system tray.
+3. Run the new installer.
+4. Your reminder data will be kept.
+
+Data storage
+WReminder stores reminder data and logs in:
+%APPDATA%\ezWhy\WReminder
+
+Website
+https://ezwhy.com/wreminder-app-nhac-viec-nhanh-gon-toi-gian-cho-windows/
